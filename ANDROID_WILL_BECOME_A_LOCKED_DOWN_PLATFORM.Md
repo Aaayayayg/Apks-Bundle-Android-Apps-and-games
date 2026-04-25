@@ -1,6 +1,6 @@
 # Your Phone stops years of
 What happened
----Google New Developer Verification-------
+Google New Developer Verification
 
 Payting to Google 
 
