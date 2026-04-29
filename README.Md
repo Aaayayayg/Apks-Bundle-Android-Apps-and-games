@@ -1,4 +1,4 @@
--# Android Apks & Bundle
+# Android Apks and Bundle
 - Pre checklist
 - [ ] create repo
 - [ ] Change the Projects
