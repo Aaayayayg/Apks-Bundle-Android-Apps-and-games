@@ -9,6 +9,9 @@ on:
   pull_request:
     branches: [ "AndroidAicore" ]
 
+permissions:
+  contents: read
+
 jobs:
   build:
 
