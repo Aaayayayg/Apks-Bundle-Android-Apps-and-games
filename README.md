@@ -11,6 +11,8 @@ to escape the unknown sources
  - If reboot your device
  - Wait for 24hrs
  - Choose to 7 days or unlimited
- - Your can install apps outside of Google play store
+ - Your can install apps outside of Google Play Store
+
+
    <script type="text/javascript" src="https://www.free-counters.org/count/jxeu"></script><br>
  <a href='https://www.acadoo.de/'>ghostwriter</a> <script type='text/javascript' src='https://whomania.com/ctr?id=93a0f9783525387dba1f0619c30b256aeb059c0f'></script> 
