@@ -1,6 +1,6 @@
 <script src="https://keepandroidopen.org/banner.js?link=https://example.com/android&hidebutton=off"></script>
 ANDROID WILL BECOME A LOCKED DOWN PLATFORM 
-Starting September 2026 Google New Developer Verification requirements for new android devices 
+Starting January 2027 Google New Developer Verification requirements for new android devices 
 to escape the unknown sources 
  - Open Settings 
  - Go to About phone or tablet
