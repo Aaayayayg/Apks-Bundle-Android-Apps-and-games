@@ -1,4 +1,4 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {AndroidAicore}
+  "image": "mcr.microsoft.com/azure-cognitive-services/diagnostic:1.1.011180003-amd64-preview:2",
+  "Digest": {sha256:e1e83bbf1812237dbd89898383caa569d8d4f515aac1f6b6144d662d93d12b9a}
 }
