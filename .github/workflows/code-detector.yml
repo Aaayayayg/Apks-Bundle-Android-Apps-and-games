@@ -2,7 +2,7 @@ name: Code detector — auto PR & issues
 
 on:
   push:
-    branches: ["AndroidAicore"]
+    branches: ["main"]
   schedule:
     - cron: "0 3 * * *" # daily at 03:00 UTC; change as needed
   workflow_dispatch:
