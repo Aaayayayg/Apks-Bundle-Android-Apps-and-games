@@ -11,6 +11,9 @@ jobs:
   detect:
     runs-on: ubuntu-latest
     outputs:
+    permissions:
+      issues: write
+      pull-requests: write
       changes: ${{ steps.check_changes.outputs.changes }}
       report-path: artifacts/report.md
     steps:
