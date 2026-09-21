@@ -1,6 +1,6 @@
 # Your can refer to
 
-DotOS
+DotOS (discontinued)
 
 AOSP (Android Open Source Project)
 
