@@ -8,3 +8,5 @@
 - [ ] more fun!
 -------------------------------------------
 _Think of one Frist projects created more than months_
+
+https://www.star-history.com/?repos=Github.com%2FAaayayayg&type=date&legend=top-left
