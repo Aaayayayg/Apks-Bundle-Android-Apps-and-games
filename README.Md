@@ -2,7 +2,7 @@
 - Pre checklist
 - [ ] create repo
 - [ ] Change the Projects
-- [-] Delete older assets
+- [✅] Delete older assets
 - [ ] Change unused item to other
 - [ ] add more features
 - [ ] more fun!
