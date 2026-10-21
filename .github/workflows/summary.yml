@@ -1,5 +1,5 @@
 name: Summarize new issues
-
+---
 on:
   issues:
     types: [opened]
