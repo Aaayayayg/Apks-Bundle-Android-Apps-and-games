@@ -13,9 +13,9 @@ name: "CodeQL Advanced"
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "AndroidAicore" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "AndroidAicore" ]
   schedule:
     - cron: '33 23 * * 0'
 
