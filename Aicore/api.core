@@ -1,0 +1,5 @@
+Config: 2026-10-16
+Config: Line-1 {https://0.0.0.0/Motod.zip}
+Setup: libandroid_runtime.so
+Confirm: Clear list
+Remove: Libarmv9
