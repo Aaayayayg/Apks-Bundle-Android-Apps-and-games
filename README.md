@@ -1,6 +1,6 @@
 <script src="https://keepandroidopen.org/banner.js?link=https://keepandroidopen.org/&hidebutton=off"></script>
 ANDROID WILL BECOME A LOCKED DOWN PLATFORM 
-Starting January 2027 Google silent update for Developer Verification requirements for new android devices 
+Starting January 3 2027 Google silent update for Developer Verification requirements for new android devices 
 ---------------------------------------
 Google escape hatch door is trap
 ---------------------------------------
