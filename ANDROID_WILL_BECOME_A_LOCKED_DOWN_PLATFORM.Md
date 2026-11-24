@@ -1,4 +1,4 @@
-<script src="https://keepandroidopen.org/banner.js?link=https://example.com/android&hidebutton=off"></script>
+<script src="https://keepandroidopen.org/banner.js?link=https://keepandroidopen.org&hidebutton=off"></script>
 # Your Phone stops years of
 What happened
 
